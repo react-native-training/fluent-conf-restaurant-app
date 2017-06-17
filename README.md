@@ -18,15 +18,14 @@ git clone https://github.com/react-native-training/fluent-conf-restaurant-app.gi
 cd fluent-conf-restaurant-app
 ```
 
-
 3. Install dependencies
 
-  Using yarn:
+   Using yarn:
 ```
 yarn
 ```
-   
-  Using npm:
+
+   Using npm:
 ```
 npm i
 ```
