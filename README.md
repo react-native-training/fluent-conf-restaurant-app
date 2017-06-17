@@ -20,12 +20,12 @@ cd fluent-conf-restaurant-app
 
 3. Install dependencies
 
-   Using yarn:
+    Using yarn:
 ```
 yarn
 ```
    
-   &nbsp;&nbsp;&nbsp;Using npm:  
+    Using npm:  
 
 ```
 npm i
@@ -33,12 +33,12 @@ npm i
 
 4. Run Application
 
-   Android:
+    Android:
 ```
 react-native run-android
 ```
 
-&nbsp;&nbsp;&nbsp;iOS:   
+    iOS:   
 ```
 react-native run-ios
 ```
