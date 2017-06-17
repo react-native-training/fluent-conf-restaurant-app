@@ -6,7 +6,7 @@
 
 ### React Native: An exhaustive introduction
 
-      To get started:
+   To get started:
 
 1. Clone the repo   
 ```
@@ -21,24 +21,24 @@ cd fluent-conf-restaurant-app
 
 3. Install dependencies   
 
-      Using yarn:   
+   Using yarn:   
 ```
 yarn
 ```
 
-      Using npm:   
+   Using npm:   
 ```
 npm i
 ```
 
 4. Run Application   
 
-      Android:   
+   Android:   
 ```
 react-native run-android
 ```
 
-      iOS:   
+   iOS:   
 ```
 react-native run-ios
 ```
