@@ -25,7 +25,7 @@ cd fluent-conf-restaurant-app
 yarn
 ```
 
-&nbsp; &nbsp; Using npm:  
+&nbsp; &nbsp; &nbsp; &nbsp; Using npm:  
 
 ```
 npm i
@@ -38,7 +38,7 @@ npm i
 react-native run-android
 ```
 
-    iOS:   
+&nbsp; &nbsp; &nbsp; &nbsp; iOS:   
 ```
 react-native run-ios
 ```
