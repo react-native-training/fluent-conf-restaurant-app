@@ -5,6 +5,7 @@ import { StackNavigator, TabNavigator } from 'react-navigation';
 
 import Home from './tabs/Home';
 import Menu from './tabs/Menu';
+import Contact from './tabs/Contact';
 
 const TabConfig = {
   Home: {
@@ -30,7 +31,19 @@ const TabConfig = {
         />
       )
     }
-  }
+  },
+  Contact: {
+    screen: Contact,
+    navigationOptions: {
+      tabBarLabel: 'Contact',
+      tabBarIcon: ({ tintColor }) => (
+        <Image
+          source={require('./assets/images/contacticon.png')}
+          style={[styles.icon, {tintColor: tintColor}]}
+        />
+      )
+    }
+  },
 }
 
 const TabStyleConfig = {
