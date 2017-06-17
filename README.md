@@ -6,39 +6,39 @@
 
 ### React Native: An exhaustive introduction
 
-   To get started:
+To get started:
 
-1. Clone the repo   
+1. Clone the repo
 ```
 git clone https://github.com/react-native-training/fluent-conf-restaurant-app.git
 ```
 
-2. cd into directory   
+2. cd into directory
 ```
 cd fluent-conf-restaurant-app
 ```
 
 
-3. Install dependencies   
+3. Install dependencies
 
-   Using yarn:   
+Using yarn:
 ```
 yarn
 ```
 
-   Using npm:   
+Using npm:
 ```
 npm i
 ```
 
-4. Run Application   
+4. Run Application
 
-   Android:   
+Android:
 ```
 react-native run-android
 ```
 
-   iOS:   
+iOS:   
 ```
 react-native run-ios
 ```
