@@ -24,7 +24,7 @@ cd fluent-conf-restaurant-app
 ```
 yarn
 ```
-   
+
     Using npm:  
 
 ```
