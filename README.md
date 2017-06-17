@@ -21,12 +21,12 @@ cd fluent-conf-restaurant-app
 
 3. Install dependencies
 
-   Using yarn:
+  Using yarn:
 ```
 yarn
 ```
-
-   Using npm:
+   
+  Using npm:
 ```
 npm i
 ```
