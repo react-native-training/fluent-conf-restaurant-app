@@ -2,7 +2,7 @@
 
 ## Fluent Conf 2017
 
-![](http://i.imgur.com/URJB6cl.jpg)  
+![](http://i.imgur.com/kNlzT1x.jpg)  
 
 ### React Native: An exhaustive introduction
 
