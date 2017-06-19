@@ -1,4 +1,5 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">NSqD4d2GH5YbhqRhmytCDc-m_h48b2f0f540-48f1-4d26-a23c-c6e5cd42a425</string>
     <string moduleConfig="true" name="mobileCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
     <string name="app_name">FluentRestaurant</string>
 </resources>
