@@ -1,4 +1,6 @@
 rootProject.name = 'FluentRestaurant'
+include ':mobile-center-crashes'
+project(':mobile-center-crashes').projectDir = new File(rootProject.projectDir, '../node_modules/mobile-center-crashes/android')
 include ':react-native-code-push'
 project(':react-native-code-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-code-push/android/app')
 include ':mobile-center-analytics'

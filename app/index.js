@@ -1,6 +1,10 @@
 import React from 'react';
 import { Text, View, Image, StyleSheet } from 'react-native';
 
+import CodePush from 'react-native-code-push';
+import Analytics from 'mobile-center-analytics';
+import Crashes from 'mobile-center-crashes';
+
 import { StackNavigator, TabNavigator } from 'react-navigation';
 
 import Home from './tabs/Home';
