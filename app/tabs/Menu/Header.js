@@ -14,9 +14,6 @@ const HeaderImage = () => (
 export default Header = {
   title: 'Menu',
   headerTitle: <HeaderImage />,
-  headerTitleStyle: {
-    height: 24
-  }
 }
 
 const styles = StyleSheet.create({

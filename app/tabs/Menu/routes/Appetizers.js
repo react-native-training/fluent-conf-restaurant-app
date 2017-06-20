@@ -5,7 +5,7 @@ import MenuItem from '../../../components/MenuItem';
 
 export default class Appetizers extends React.Component {
   static navigationOptions = {
-    title: 'Appetizers'
+    title: 'Appetizers',
   }
 
   render() {
