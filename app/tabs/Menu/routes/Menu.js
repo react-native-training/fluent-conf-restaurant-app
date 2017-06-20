@@ -1,11 +1,20 @@
 import React from 'react';
 
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
+
+import Analytics from 'mobile-center-analytics';
+
 import { ListItem } from 'react-native-elements';
 
 import Header from '../Header';
 
 export default class Menu extends React.Component {
+  sendBurgerEvent(){
+      Analytics.trackEvent('Burger interest detected',{
+          prop1: new Date().getDate()
+      })
+  }
+
   static navigationOptions = {
     ...Header
   }
